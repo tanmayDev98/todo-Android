@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ToDo" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="textAppearanceHeadline1">@style/HeadlineOneAppearance</item>
+        <item name="textAppearanceHeadline2">@style/HeadlineTwoAppearance</item>
+        <item name="textAppearanceBody1">@style/BodyAppearance</item>
+    </style>
+</resources>

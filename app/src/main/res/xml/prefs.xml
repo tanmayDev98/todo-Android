@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <EditTextPreference
+        android:key="@string/web_service_url_key"
+        android:selectAllOnFocus="true"
+        android:title="@string/pref_url_title"
+        app:defaultValue="@string/web_service_url_default" />
+    <SwitchPreference
+        android:defaultValue="false"
+        android:key="@string/import_key"
+        android:title="@string/pref_import_title" />
+</PreferenceScreen>
