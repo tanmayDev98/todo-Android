@@ -12,4 +12,3 @@ OkHttp: Networking.
 Handlebars: Templating engine.
 WorkManager: For background tasks.
 Mockito and Kotlin Coroutines Test: For unit and instrumentation testing.
-Features
